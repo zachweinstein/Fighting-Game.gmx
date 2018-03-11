@@ -6,3 +6,4 @@ if (can_follow == true){
     direction = point_direction(x, y, follow.x, follow.y);
     speed = follow_spd;
 }
+//ssdsd sds
